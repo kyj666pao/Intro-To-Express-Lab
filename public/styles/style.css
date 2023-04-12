@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+h1 {
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: orange;
+
+}
+
+table,
+tr,
+th,
+td {
+    border-collapse: collapse;
+    border: 2px solid greenyellow;
+}
+
+th,
+td {
+    text-align: center;
+}
+
+tr,
+th,
+td {
+    padding: 0.25rem 0.5rem;
+}
+
+h1,
+a,
+table {
+    margin: 0.5rem 1rem;
+}
